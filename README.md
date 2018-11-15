@@ -21,3 +21,4 @@ ch = (int(e, 2) & int(f, 2)) ^ ((~int(e, 2)) & int(g, 2))
 taking e, f, and g as the initial constants in binary and converting them to integers.  
 
 Despite my best efforts I have yet to resolve the issue with this line of code and one can see the error in the Choose Function output here where the h, S1, ch, k(0), w(i) values in binary alongside those correcty output from the video above:
+![](https://github.com/darkfireXXI/SHA-256/blob/Image/ChooseFunctionProblem.jpg)
