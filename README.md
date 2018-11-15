@@ -1,6 +1,5 @@
 # SHA-256
-Building SHA-256 hashing algorithm from scratch  
-[Wiki](https://en.wikipedia.org/wiki/SHA-2)
+Building SHA-256 hashing algorithm from scratch [Wiki](https://en.wikipedia.org/wiki/SHA-2)
 
 ## The Short Cut
 Fortunately, you don't have to do this as you can import hashlib and in two lines do all the work:  
