@@ -2,9 +2,9 @@
 Building SHA-256 hashing algorithm from scratch
 
 ## The Short Cut
-Fortunately, you don't have to do this as you can import hashlib and in two lines do all the work:
-\ntext = input()
-\ndigest = hashlib.sha256(('text').encode('utf-8')).hexdigest()
+Fortunately, you don't have to do this as you can import hashlib and in two lines do all the work:  
+text = input()  
+digest = hashlib.sha256(('text').encode('utf-8')).hexdigest()
 
 ## The Long Cut
 Write it from scratch for fun! See Hashing.py
