@@ -21,7 +21,7 @@ ch = (int(e, 2) & int(f, 2)) ^ ((~int(e, 2)) & int(g, 2))
 taking e, f, and g as the initial constants in binary and converting them to integers.  
 
 Despite my best efforts I have yet to resolve the issue with this line of code. One can see the error in the Choose Function output here where my h, S1, ch, k(0), w(i) values in binary are displayed alongside those correcty output in the video above:
-![](https://github.com/darkfireXXI/SHA-256/blob/Image/ChooseFunctionProblem.jpg)
+![](https://github.com/darkfireXXI/SHA-256/blob/Image/ChooseFunctionError.jpg)
 
 ## Conclusion
 Choose Function Error aside the algorithm works as it should. Overall it was a good excercise in coding as it requires a lot of numerical conversions (binary, hex, int) to do various operations and in the process one can understand and appreciate the simplicity/irreversibility of the one way algorithm.
