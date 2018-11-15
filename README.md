@@ -1,5 +1,5 @@
 # SHA-256
-Building SHA-256 hashing algorithm from scratch
+Building SHA-256 hashing algorithm from scratch  
 [Wiki](https://en.wikipedia.org/wiki/SHA-2)
 
 ## The Short Cut
